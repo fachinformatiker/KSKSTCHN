@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0 auto;
+  max-width: 60em;
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
